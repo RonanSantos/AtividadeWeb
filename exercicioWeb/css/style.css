@@ -1,0 +1,191 @@
+ 
+body{
+	background-color: #e6e6e6;
+	font-family: "Roboto", sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+}
+
+.textDire{
+	color: #757575;
+}
+
+div{
+	display: block;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 350;
+	margin: 10px 0;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px; 
+}
+
+.nomeImg{
+	margin-top: -73px;
+	padding: 3 10px;
+	color: #000;
+	font-size: 30px;	
+	font-family: "Roboto", sans-serif; 
+}
+.sub2{
+	margin-top: 30px;
+	padding: 0 10px;	
+	font-family: "Roboto", sans-serif; 
+}
+.subDireito{
+	color: #009688;
+	margin-top: -30px;
+	padding: 1 10px;
+}
+
+.essub{
+	margin-top: 0.75px;
+	padding: 0 10px;
+}
+h2{
+	font-size: 36px;
+	color: #009688;
+}
+
+h5{
+	display: block;
+    font-size: 18px;	
+	color: #757575;
+	font-family: "Roboto",sans-serif;
+}
+
+h6{
+	font-size: 16px;
+	color: #009688;
+	
+}
+
+h5 {
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#logo{
+	margin-right: 16px;
+	width: 1.28571429em;
+    text-align: center;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+}
+b{
+    font-weight: bolder;
+}
+
+.skills,.languages{
+	font-size: 18px;
+	color: #757575;
+	margin-right: 16px;
+}
+
+.current{
+	color: #fff;
+	background-color: #009688;
+	border-radius: 4px;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
+.work{
+	color: #757575;
+}
+.eswork{
+	margin-right: 5px;
+	color: #009688;
+}
+.es{
+	margin-right: 20px;
+	color: #009688;
+}
+
+.parag{
+	padding: 0 10px;
+}
+
+#corpo{
+	padding: 0 10px;
+}
+
+#divEsquerda,#divDireita{
+	background-color: #ffffff;
+	margin: 0px 15px 15px 0;
+	box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),
+				0 4px 20px 0 rgba(0,0,0,0.19);
+}
+#divEsquerda{
+	width: 435px;
+	float: left;	
+}
+.espaco{
+	padding: 15px;
+}
+#divDireita{
+	float: right;
+	width: 815px;
+	padding: 16px;
+	display: table;
+}
+.clear{
+	clear: left;
+}
+.foto{
+	width: 100%;
+}
+#barra-fora,.barra{
+	padding: 10px;
+	border-radius: 16px;
+	font-size: 12px;
+}
+
+.dentro,.fora{
+  border-radius: 16px;
+}
+.fora{
+  color: #000!important;
+  background-color: #f1f1f1;
+  font-size: 12px;
+}
+.dentro{
+  text-align: center;
+  color: #fff;
+  background-color: #009688;
+}
+
+#iconDireita{
+	width: 20px;
+	height: 20px;
+	margin-right: 20px;
+}
+
+#direita1{
+	display: block;
+	padding: 0 10px;
+}
+
+footer{
+	background-color: #009688;
+	height: 150px;
+}
+
+.rodape{
+	color: #ffffff;
+	background-color: #009688;
+	text-align: center;
+	
+}
